@@ -69,15 +69,13 @@ I installed **Oracle VirtualBox** on my Windows computer.
 
 VirtualBox acts as the hypervisor that allows me to create and run virtual machines on my physical computer.
 
----
+![Oracle VirtualBox](https://github.com/ProffV/NetworkWalks-Victor-B084-Cybersecurity-week1-Lab-setup/blob/main/Screenshot%202026-10-27%20135326.png)
 
 ### Step 2: Set Up Kali Linux
 
 I downloaded Kali Linux and configured it to run inside VirtualBox.
 
 This created a separate virtual environment where I can practise cybersecurity without replacing my Windows operating system.
-
----
 
 ### Step 3: Allocate VM Resources
 
