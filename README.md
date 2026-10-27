@@ -146,7 +146,7 @@ Screenshots were taken during the lab setup to document my work.
 
 ### Kali Linux Running in VirtualBox
 
-![Kali Linux Virtual Machine](screenshots/kali-linux-vm.png)
+![Kali Linux Virtual Machine](https://github.com/ProffV/NetworkWalks-Victor-B084-Cybersecurity-week1-Lab-setup/blob/main/VirtualBox_kali-linux-2026.2-virtualbox-amd64_27_10_2026_14_52_16.png)
 
 ### Kali Linux Terminal
 
@@ -157,8 +157,6 @@ Screenshots were taken during the lab setup to document my work.
 ![Kali Network Configuration](screenshots/kali-network.png)
 
 > The screenshot filenames above can be changed to match the actual names of the images uploaded to this repository.
-
----
 
 ## 💡 What I Learned
 
