@@ -229,13 +229,3 @@ Electrical & Electronics Engineer | Cybersecurity Learner
 ## 📌 Project Status
 
 🟢 **Active — More cybersecurity labs and practical exercises will be added as I continue learning.**
-```
-
-### One important thing before you publish it
-
-The reference repository goes beyond simply installing Kali. It includes a **NAT Network, static IP configuration, gateway/DNS tests and a clean VM snapshot**. :chatgpt-content-reference{index="1"}
-
-I deliberately **didn't claim that you completed those things** because I don't yet know whether you did. A GitHub portfolio should document what **you actually performed**, not just reproduce somebody else's project.
-
-If your tutor instructed you to configure the **NAT Network, IP address, snapshot, etc.**, tell me what you have completed (or send me your screenshots). **I'll then build your README around your actual evidence and show you exactly how to create the GitHub repository and upload the screenshots step-by-step.**
-
