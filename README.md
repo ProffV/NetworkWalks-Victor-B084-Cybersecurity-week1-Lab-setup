@@ -1,6 +1,5 @@
-# NetworkWalks-Victor-B084-Cybersecurity-week1-Lab-setup
+# 🔐NetworkWalks-Victor-B084-Cybersecurity-week1- Virtual Lab-setup Using Kali Linux & VirtualBox
 
-# 🔐 Cybersecurity Virtual Lab Setup Using Kali Linux & VirtualBox
 
 ## 📌 Project Overview
 
